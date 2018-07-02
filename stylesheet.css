@@ -1,3 +1,8 @@
+@media only screen and (max-width: 400px) {
+    body {
+        background-color: white;
+    }
+}
 body {
    background-image: url("https://i.pinimg.com/originals/eb/fc/6e/ebfc6ef04ed07999b1c171b3c6721332.jpg");
    background-repeat: no-repeat;
@@ -64,4 +69,23 @@ ul {
 }
 .thumbnail {
   height: 100%;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+    .container-fluid {
+        float: none;
+        width: 50%;
+    }
 }
