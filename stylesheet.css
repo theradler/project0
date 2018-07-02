@@ -1,0 +1,67 @@
+body {
+   background-image: url("https://i.pinimg.com/originals/eb/fc/6e/ebfc6ef04ed07999b1c171b3c6721332.jpg");
+   background-repeat: no-repeat;
+   background-size: auto;
+   background-color: #000000;
+   background-position: center top;
+   color: white;
+   padding-top: 65px;
+}
+.container {
+  background-color: transparent;
+
+}
+#Main_Container {
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  opacity: 50%;
+}
+#funlist {
+  text-align: center;
+}
+#menu-outer {
+	height: 84px;
+	background: url(images/bar-bg.jpg) repeat-x;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: none;
+
+	}
+#bottom_container {
+  padding-top: 100px;
+  color: red;
+  text-align: center;
+}
+#video_container {
+  width: 420;
+  height: 315;
+}
+.jumbotron {
+  background: rgb(200,54,54);
+  background: rgba(200,54,54,0.5)
+}
+.img {
+    position: relative;
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+.row.display-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.thumbnail {
+  height: 100%;
+}
