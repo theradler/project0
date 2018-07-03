@@ -1,0 +1,38 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/eb/fc/6e/ebfc6ef04ed07999b1c171b3c6721332.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center top;
+  padding-top: 65px;
+  font: 100% Helvetica, sans-serif;
+  color: white;
+  background-color: black;
+}
+body h1 {
+  text-align: center;
+  font: 500% Impact, Charcoal, sans-serif;
+}
+body .container {
+  display: flex;
+  /* or inline-flex */
+}
+body .container-fluid {
+  background-color: transparent;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+body .container-fluid .col-sm-4 {
+  text-align: center;
+  padding-bottom: 35px;
+}
+body .container-fluid .thumbnail {
+  height: 300px;
+  width: 300px;
+  align-self: center;
+}
+body .container-fluid .img-circle {
+  height: 275px;
+  width: 275px;
+}
+
+/*# sourceMappingURL=style.css.map */
