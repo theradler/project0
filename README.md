@@ -31,4 +31,4 @@ Web Programming with Python and JavaScript
 
 //stylesheet.css & style.css//
 * two stylesheets fro the project
-* Lots of different custimizations
+* Lots of different customizations
