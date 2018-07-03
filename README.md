@@ -21,4 +21,14 @@ Web Programming with Python and JavaScript
 
 //alpacino.html//
 * Uses the same general structure as the robertdeniro page
-* Uses the bootstrap grid and column to add in and organize images 
+* Uses the bootstrap grid and column to add in and organize images
+
+//otherstuff.html//
+* pages that uses SCSS to satisfy requirements
+* Used nested  scss variables to format the thumbprints
+* used Sccss variable to change colors of font
+
+
+//stylesheet.css & style.css//
+* two stylesheets fro the project
+* Lots of different custimizations
